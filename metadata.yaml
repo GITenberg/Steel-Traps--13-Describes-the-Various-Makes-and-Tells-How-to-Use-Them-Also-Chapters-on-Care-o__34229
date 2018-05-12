@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36678
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34229#Steel-Traps--13-Describes-the-Various-Makes-and-Tells-How-to-Use-Them-Also-Chapters-on-Care-o_
 gutenberg_issued: '2010-11-07'
 gutenberg_type: Text
 identifiers:
