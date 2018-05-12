@@ -1,0 +1,29 @@
+_repo: Steel-Traps--13-Describes-the-Various-Makes-and-Tells-How-to-Use-Them-Also-Chapters-on-Care-o__34229
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34229-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harding, A. R. (Arthur Robert)
+    alias: Harding, Arthur Robert
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '36678'
+    url: http://www.gutenberg.org/2009/agents/36678
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
+description: ''
+gutenberg_issued: '2010-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Trapping'
+title: "Steel Traps\r\nDescribes the Various Makes and Tells How to Use Them, Also\
+  \ Chapters on Care of Pelts, Etc."
+url: http://www.gutenberg.org/ebooks/34229
